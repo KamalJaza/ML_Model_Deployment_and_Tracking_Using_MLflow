@@ -1,5 +1,25 @@
 # ML-model-deployment-and-tracking-using-mlflow
 
+# ML Model Deployment Workflow
+1. Use Case
+  - Objective Statement
+  - Challenges
+  - Analytic Method/Technique
+  - Business Benefit
+  - Expected Outcome
+2. Business Understanding
+3. Data Understanding
+4. Data Preparation
+5. Data Profiling
+6. Data Cleansing
+7. Exploratory Data Analysis
+8. Preprocessing Modeling
+9. Modeling using Linear Regression
+10. Evaluate Model
+11. Model Deployment
+12. Result
+13. Recommendation
+
 # Use Case Summary
 - Objective Statement:
   - To get insight how much sales based on tv advertising
@@ -51,3 +71,24 @@
 Code Used:
 - Python Version: 3.7.15
 - Packages: Pandas, Numpy, Matplotlib, Seaborn, MLFlow, sklearn and Warnings
+
+# Data Profiling
+Data profiling is the process of reviewing source data, understanding structure, content and interrelationships, and identifying potential for data projects.
+
+# Data Cleansing
+
+# Exploratory Data Analysis
+
+# Preprocessing Modeling
+
+# Modeling
+
+# Evaluate Model
+
+# Model Deployment
+
+# Result
+
+# Recommendation
+
+# MLflow
