@@ -2,11 +2,11 @@
 
 # ML Model Deployment Workflow
 1. Use Case
-  - Objective Statement
-  - Challenges
-  - Analytic Method/Technique
-  - Business Benefit
-  - Expected Outcome
+    - Objective Statement
+    - Challenges
+    - Analytic Method/Technique
+    - Business Benefit
+    - Expected Outcome
 2. Business Understanding
 3. Data Understanding
 4. Data Preparation
