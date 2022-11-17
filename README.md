@@ -1,7 +1,7 @@
 # ML-model-deployment-and-tracking-using-mlflow
 
 # ML Model Deployment Workflow
-1. Use Case
+1. Use Case Summary
     - Objective Statement
     - Challenges
     - Analytic Method/Technique
