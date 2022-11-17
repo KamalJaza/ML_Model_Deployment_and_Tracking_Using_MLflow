@@ -80,8 +80,10 @@ The TV Marketing dataset is clean because the data no longer has missing values 
 
 # Exploratory Data Analysis
 - What about the relationship between sales and TV marketing based on scatterplot?
-- What about the relationship between sales and TV marketing based on correlation values?
+    ![Screenshot_20221117_114716](https://user-images.githubusercontent.com/113869968/202358667-52ae25b2-3ed8-4439-bf13-aa993a1506d8.png)
 
+- What about the relationship between sales and TV marketing based on correlation values?
+    ![Screenshot_20221117_114728](https://user-images.githubusercontent.com/113869968/202358672-8c995eac-ffca-4126-aa17-d1c6d793b213.png)
 # Preprocessing Modeling
 
 # Modeling
