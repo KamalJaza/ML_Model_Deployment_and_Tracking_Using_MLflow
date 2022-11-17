@@ -76,8 +76,11 @@ Code Used:
 Data profiling is the process of reviewing source data, understanding structure, content and interrelationships, and identifying potential for data projects.
 
 # Data Cleansing
+The TV Marketing dataset is clean because the data no longer has missing values and the data types are already appropriate.
 
 # Exploratory Data Analysis
+- What about the relationship between sales and TV marketing based on scatterplot?
+- What about the relationship between sales and TV marketing based on correlation values?
 
 # Preprocessing Modeling
 
