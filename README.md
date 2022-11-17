@@ -92,9 +92,16 @@ The TV Marketing dataset is clean because the data no longer has missing values 
     From the heatmap above, it can be seen that **there is a strong relationship** between TV advertising and sales. This is because the correlation value between sales and tv marketing is **0.78** where it is **more than 0.5**.
     
 # Preprocessing Modeling
+- Splitting Train & Test
+    Before modeling, it is necessary to divide the dataset into two parts, namely the part used for data training and for data testing with a proportion of 1/3.
 
 # Modeling
-
+- Linear Regression Modelling
+    Linear regression is a type of machine learning algorithm that is used to model the relation between scalar dependent and one or more independent variables.
+    In this case, data training is using to modelling with linear regression and make predictions using the previously trained Linear Regression model.
+    ![image](https://user-images.githubusercontent.com/113870005/202447581-f9197648-2c8d-4890-b79b-ba1806d2667c.png)
+Based on the scatter plot above, it can be seen that the modeled train data tends to approach the linear line which is the result of the prediction. This means that the data and the predicted results are not much different so it can be said that the data follows a linear regression model.
+    
 # Evaluate Model
 
 # Model Deployment
