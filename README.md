@@ -52,11 +52,11 @@
 # Business Understanding
 - Tv Marketing is the method of demonstrating features of products and providing their information on television to attract viewers and encourage them to buy the shown products is called trade through television marketing.
 - This case has some business question using the data:
- - How much company spent money on TV advertising?
- - How much money is spent on advertising on TV?
- - How about relationship between sales and TV marketing?
- - How about the results of sales prediction based using Linear Regression on TV advertising?
- - How to create a model deployment using MLflow?
+   - How much company spent money on TV advertising?
+   - How much money is spent on advertising on TV?
+   - How about relationship between sales and TV marketing?
+   - How about the results of sales prediction based using Linear Regression on TV advertising?
+   - How to create a model deployment using MLflow?
 
 # Data Understanding
 
