@@ -80,11 +80,13 @@ The TV Marketing dataset is clean because the data no longer has missing values 
 
 # Exploratory Data Analysis
 - What about the relationship between sales and TV marketing based on scatterplot?
+
     ![Screenshot_20221117_114716](https://user-images.githubusercontent.com/113869968/202358667-52ae25b2-3ed8-4439-bf13-aa993a1506d8.png)
     
     From the chart above, it can be seen that there is a **strong relationship** between TV advertising and sales. Based on scatterplot, the relationship between TV advertising and sales is **directly proportional**. As more money is spent on advertising on TV, sales will increase.
 
 - What about the relationship between sales and TV marketing based on correlation values?
+
     ![Screenshot_20221117_114728](https://user-images.githubusercontent.com/113869968/202358672-8c995eac-ffca-4126-aa17-d1c6d793b213.png)
     
     From the heatmap above, it can be seen that **there is a strong relationship** between TV advertising and sales. This is because the correlation value between sales and tv marketing is **0.78** where it is **more than 0.5**.
