@@ -103,8 +103,15 @@ The TV Marketing dataset is clean because the data no longer has missing values 
 Based on the scatter plot above, it can be seen that the modeled train data tends to approach the linear line which is the result of the prediction. This means that the data and the predicted results are not much different so it can be said that the data follows a linear regression model.
     
 # Evaluate Model
+In the last stage, we will evaluate the model using MAE, MAPE, R-Square, and RMSE to see if the model formed is good enough.
+- Based on the evaluation of the model using MAE, a fairly small value was obtained and close to 0, which is 2,381. This means that the formed model is good for prediction.
+- Based on the evaluation of the model using MAPE, a value of 0.18 or 18% is obtained, where this figure is below 20%. This means that the model formed has good forecasting results.
+- Based on the evaluation of the model using R-Square, a value of 0.65 or 65% is obtained. This means that TV advertising has an effect of 65% on sales while the remaining 35% is influenced by other unknown factors.
+- Based on the evaluation of the model using the RMSE, a fairly small value was obtained and close to 0, which is 3.06. This means that the model is good enough to make predictions.
 
 # Model Deployment
+Based on the model deployment above, the same model evaluation value is generated as the previously obtained evaluation results. If we use visual studio to create the model deployment, it can be displayed mlflow ui below
+![image](https://user-images.githubusercontent.com/113869964/202740729-8fc88b8f-564b-4801-93ac-c0ab630dc93e.png)
 
 # Result
 
